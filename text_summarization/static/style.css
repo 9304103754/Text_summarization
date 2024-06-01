@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(23, 21, 21);
+}
+.logo {
+    width: 10px; 
+    height: auto; 
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.jumbotron{
+    background-color: orange;
+    margin: 20px;
+    padding: 10px;
+    height: 30vh;
+}
+.original_txt{
+    background-color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.summary_txt{
+    background-color: greenyellow;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+
+}
+.srt{
+display: flex;
+flex-direction: row;
+}
+.originalTxt{
+    background-color: grey;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+}
+.summaryTxt{
+    background-color:black;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    margin-left: 10px;
+}
+.heading{
+    font-weight: bold;
+    margin: 20px;
+    display: flex;
+    justify-content:center;
+}
+.load{
+    display: flex;
+    justify-content: center;
+}
+.submit_btn{
+    margin-top: 15px;
+
+    
+}
+.corm{
+    background-color: whitesmoke;
+    color: red;
+    height : 40vh;
+    /* margin: 10px; */
+    margin-top: 20px;
+    font-style: oblique;
+}
+.Text{
+    color: yellowgreen;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+}
